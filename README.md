@@ -226,8 +226,6 @@ Through this project I learned:
 
 ## 👨‍💻 Author
 
-## 👨‍💻 Author
-
 Hema Krishna Sree Dharlanka
 
 B.Tech CSE (AI & DS)
